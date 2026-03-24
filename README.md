@@ -14,7 +14,7 @@
 
     <main>
         <section class="about-me">
-            <p>Hi, my name is [Your Name]! I'm about to start college in Kentucky, USA. This is a big change for me, coming from Romania. I'm curious about the culture, lifestyle, and everything I should expect as I move there.</p>
+            <p>Hi, my name is [Simi]! I'm about to start college in Kentucky, USA. This is a big change for me, coming from Romania. I'm curious about the culture, lifestyle, and everything I should expect as I move there.</p>
         </section>
 
         <section class="question">
